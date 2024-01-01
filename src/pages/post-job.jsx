@@ -503,3 +503,4 @@ const PostJob = () => {
 };
 
 export default PostJob;
+// milestone: Prepared the project foundation and local environment setup

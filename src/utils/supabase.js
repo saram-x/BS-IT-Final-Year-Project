@@ -13,3 +13,4 @@ const supabaseClient = async (supabaseAccessToken) => {
 };
 
 export default supabaseClient;
+// milestone: Prepared the project foundation and local environment setup

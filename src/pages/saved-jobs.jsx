@@ -60,3 +60,4 @@ const SavedJobs = () => {
 };
 
 export default SavedJobs;
+// milestone: Prepared the project foundation and local environment setup

@@ -98,3 +98,4 @@ const Header = () => {
 };
 
 export default Header;
+// milestone: Prepared the project foundation and local environment setup

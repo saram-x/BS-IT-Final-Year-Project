@@ -257,3 +257,5 @@ const MessagingComponent = ({ application, isOpen, onClose, isCandidate = false 
 };
 
 export default MessagingComponent;
+
+// milestone: Prepared the project foundation and local environment setup
