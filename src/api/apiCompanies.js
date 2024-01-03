@@ -49,3 +49,4 @@ export async function addNewCompany(token, _, companyData) {
 
   return data;
 }
+// milestone: Refined the landing page hero layout and brand spacing
