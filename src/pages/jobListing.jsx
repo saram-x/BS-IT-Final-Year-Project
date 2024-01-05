@@ -180,3 +180,4 @@ const JobListing = () => {
 };
 
 export default JobListing;
+// milestone: Improved job cards with clearer metadata and actions

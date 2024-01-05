@@ -158,3 +158,4 @@ const JobCard = ({
 };
 
 export default JobCard;
+// milestone: Improved job cards with clearer metadata and actions

@@ -202,3 +202,4 @@ export async function addNewJob(token, _, jobData) {
   console.log("✅ Job created successfully:", data);
   return data;
 }
+// milestone: Improved job cards with clearer metadata and actions

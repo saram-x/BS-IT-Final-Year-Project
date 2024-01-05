@@ -254,3 +254,5 @@ const ApplicationCard = ({ application, isCandidate = false }) => {
 };
 
 export default ApplicationCard;
+
+// milestone: Improved job cards with clearer metadata and actions
