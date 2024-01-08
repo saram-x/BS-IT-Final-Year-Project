@@ -97,3 +97,4 @@ module.exports = {
     },
 	plugins: [require("tailwindcss-animate")],
   };
+// milestone: Fixed onboarding form flow for recruiters and seekers
