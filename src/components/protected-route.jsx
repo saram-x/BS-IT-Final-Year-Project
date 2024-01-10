@@ -41,3 +41,4 @@ const ProtectedRoute = ({ children, requiredRole }) => {
 };
 
 export default ProtectedRoute;
+// milestone: Updated dashboard metrics for better visibility

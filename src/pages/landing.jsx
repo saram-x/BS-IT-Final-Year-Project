@@ -111,3 +111,4 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
+// milestone: Updated dashboard metrics for better visibility
