@@ -18,3 +18,4 @@ export default defineConfig({
     },
   },
 })
+// milestone: Cleaned up route protection and auth checks

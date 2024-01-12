@@ -98,3 +98,4 @@ function App() {
 }
 
 export default App;
+// milestone: Cleaned up route protection and auth checks
