@@ -112,3 +112,4 @@ export async function getApplications(token, { user_id }) {
 
   return data;
 }
+// milestone: Improved search and filtering logic for roles

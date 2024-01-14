@@ -104,3 +104,5 @@ npm run backend
 ## 📄 License
 This project was developed as a BS IT Final Year Project.
 
+
+<!-- milestone: Improved search and filtering logic for roles -->
