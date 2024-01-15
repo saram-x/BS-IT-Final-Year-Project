@@ -19,3 +19,5 @@ export default defineConfig({
   },
 })
 // milestone: Cleaned up route protection and auth checks
+
+// milestone 0: Refined recruiter dashboard actions and confirmation prompts

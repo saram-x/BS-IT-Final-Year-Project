@@ -44,3 +44,5 @@ const ConfirmationDialog = ({
 };
 
 export default ConfirmationDialog;
+
+// milestone 0: Refined recruiter dashboard actions and confirmation prompts

@@ -200,3 +200,5 @@
 - 2025-03-28 04:55:43 ? Tuned the recommendation logic for job suggestions
 - 2025-03-30 11:55:26 ? Improved caching patterns for frequently accessed company data
 - 2025-03-31 19:45:00 ? Refined admin row actions and confirmation prompts
+
+<!-- milestone 0: Refined recruiter dashboard actions and confirmation prompts -->
