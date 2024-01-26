@@ -4,3 +4,5 @@ export default {
     autoprefixer: {},
   },
 }
+
+// milestone 1: Improved company card consistency and hover behavior

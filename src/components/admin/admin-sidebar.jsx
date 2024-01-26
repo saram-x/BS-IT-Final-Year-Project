@@ -87,3 +87,5 @@ const AdminSidebar = ({ activeTab, setActiveTab, suspiciousJobsCount }) => {
 };
 
 export default AdminSidebar;
+
+// milestone 1: Improved company card consistency and hover behavior

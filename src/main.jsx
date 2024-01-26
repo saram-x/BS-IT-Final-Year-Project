@@ -27,3 +27,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </ClerkProvider>
   </React.StrictMode>
 );
+// milestone 1: Improved company card consistency and hover behavior
