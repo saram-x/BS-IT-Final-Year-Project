@@ -12,3 +12,4 @@
 - 2024-01-22 00:55:31 ? Updated saved jobs and applied jobs tracking for better UX
 - 2024-01-24 07:58:21 ? Enhanced search behavior for trending roles and remote opportunities
 - 2024-01-26 14:58:04 ? Finished revisions to the landing page hero and call-to-action blocks
+- 2024-01-28 22:00:54 ? Improved dark mode contrast and accessibility across the platform
