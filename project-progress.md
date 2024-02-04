@@ -15,3 +15,4 @@
 - 2024-01-28 22:00:54 ? Improved dark mode contrast and accessibility across the platform
 - 2024-01-31 05:03:45 ? Cleaned up route guards and protected page access checks
 - 2024-02-02 12:06:35 ? Fixed loading states for asynchronous company and job requests
+- 2024-02-04 19:09:25 ? Updated job posting validation for pricing and dates
