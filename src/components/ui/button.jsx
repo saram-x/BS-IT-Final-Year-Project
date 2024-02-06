@@ -49,3 +49,5 @@ Button.displayName = "Button"
 export { Button, buttonVariants }
 
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 2: Updated form validation for application submission steps

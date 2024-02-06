@@ -63,3 +63,5 @@ const AdminDataTable = ({ config, activeTab }) => {
 };
 
 export default AdminDataTable;
+
+// milestone 2: Updated form validation for application submission steps

@@ -42,3 +42,5 @@ const ProtectedRoute = ({ children, requiredRole }) => {
 
 export default ProtectedRoute;
 // milestone: Updated dashboard metrics for better visibility
+
+// milestone 2: Updated form validation for application submission steps

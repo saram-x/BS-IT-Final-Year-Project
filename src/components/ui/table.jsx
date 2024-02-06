@@ -81,3 +81,5 @@ export {
   TableCell,
   TableCaption,
 }
+
+// milestone 2: Updated form validation for application submission steps

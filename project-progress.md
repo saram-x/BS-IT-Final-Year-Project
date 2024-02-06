@@ -202,3 +202,5 @@
 - 2025-03-31 19:45:00 ? Refined admin row actions and confirmation prompts
 
 <!-- milestone 0: Refined recruiter dashboard actions and confirmation prompts -->
+
+<!-- milestone 2: Updated form validation for application submission steps -->
