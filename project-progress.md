@@ -16,3 +16,4 @@
 - 2024-01-31 05:03:45 ? Cleaned up route guards and protected page access checks
 - 2024-02-02 12:06:35 ? Fixed loading states for asynchronous company and job requests
 - 2024-02-04 19:09:25 ? Updated job posting validation for pricing and dates
+- 2024-02-07 02:12:15 ? Refined table sorting and pagination in the admin panel
