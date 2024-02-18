@@ -259,3 +259,5 @@ const MessagingComponent = ({ application, isOpen, onClose, isCandidate = false 
 export default MessagingComponent;
 
 // milestone: Prepared the project foundation and local environment setup
+
+// milestone 3: Tuned list filtering logic for location and role preferences

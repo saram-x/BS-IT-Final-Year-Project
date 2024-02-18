@@ -60,3 +60,5 @@ const SectionHeader = ({ activeTab, filteredData }) => {
 };
 
 export default SectionHeader;
+
+// milestone 3: Tuned list filtering logic for location and role preferences

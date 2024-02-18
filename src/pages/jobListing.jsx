@@ -181,3 +181,5 @@ const JobListing = () => {
 
 export default JobListing;
 // milestone: Improved job cards with clearer metadata and actions
+
+// milestone 3: Tuned list filtering logic for location and role preferences

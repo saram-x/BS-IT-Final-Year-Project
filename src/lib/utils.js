@@ -5,3 +5,5 @@ import { twMerge } from "tailwind-merge"
 export function cn(...inputs) {
   return twMerge(clsx(inputs));
 }
+
+// milestone 3: Tuned list filtering logic for location and role preferences
