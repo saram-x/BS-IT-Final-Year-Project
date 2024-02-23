@@ -23,3 +23,4 @@
 - 2024-02-16 06:23:36 ? Refined the saved jobs experience and bookmark interactions
 - 2024-02-18 13:26:26 ? Fixed UI alignment issues in the application review screens
 - 2024-02-20 20:26:09 ? Improved company profile cards and brand presentation
+- 2024-02-23 03:28:59 ? Updated the messaging panel layout for clearer conversations
