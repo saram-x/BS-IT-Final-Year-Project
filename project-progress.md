@@ -24,3 +24,4 @@
 - 2024-02-18 13:26:26 ? Fixed UI alignment issues in the application review screens
 - 2024-02-20 20:26:09 ? Improved company profile cards and brand presentation
 - 2024-02-23 03:28:59 ? Updated the messaging panel layout for clearer conversations
+- 2024-02-25 10:31:49 ? Improved error handling for rejected job submissions
