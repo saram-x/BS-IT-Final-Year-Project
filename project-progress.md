@@ -25,3 +25,4 @@
 - 2024-02-20 20:26:09 ? Improved company profile cards and brand presentation
 - 2024-02-23 03:28:59 ? Updated the messaging panel layout for clearer conversations
 - 2024-02-25 10:31:49 ? Improved error handling for rejected job submissions
+- 2024-02-27 17:34:40 ? Tightened the onboarding questionnaire flow and state transitions
