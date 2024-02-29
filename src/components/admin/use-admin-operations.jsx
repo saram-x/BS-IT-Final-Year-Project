@@ -151,3 +151,5 @@ export const useAdminOperations = (
     handleBanUser
   };
 };
+
+// milestone 4: Improved landing page responsive spacing and hierarchy

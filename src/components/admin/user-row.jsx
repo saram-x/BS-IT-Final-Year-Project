@@ -71,3 +71,5 @@ const UserRow = ({ user, onBanUser, onDeleteUser }) => {
 };
 
 export default UserRow;
+
+// milestone 4: Improved landing page responsive spacing and hierarchy

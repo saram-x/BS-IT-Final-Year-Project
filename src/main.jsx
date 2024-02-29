@@ -28,3 +28,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   </React.StrictMode>
 );
 // milestone 1: Improved company card consistency and hover behavior
+
+// milestone 4: Improved landing page responsive spacing and hierarchy

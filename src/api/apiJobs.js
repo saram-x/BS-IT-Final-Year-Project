@@ -203,3 +203,5 @@ export async function addNewJob(token, _, jobData) {
   return data;
 }
 // milestone: Improved job cards with clearer metadata and actions
+
+// milestone 4: Improved landing page responsive spacing and hierarchy
