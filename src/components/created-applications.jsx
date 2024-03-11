@@ -42,3 +42,4 @@ const CreatedApplications = () => {
 };
 
 export default CreatedApplications;
+// milestone 5: Reviewed message thread state handling and CTA layout

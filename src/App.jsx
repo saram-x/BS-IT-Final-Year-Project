@@ -99,3 +99,5 @@ function App() {
 
 export default App;
 // milestone: Cleaned up route protection and auth checks
+
+// milestone 5: Reviewed message thread state handling and CTA layout

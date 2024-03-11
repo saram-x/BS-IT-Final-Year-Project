@@ -161,3 +161,5 @@ export default JobCard;
 // milestone: Improved job cards with clearer metadata and actions
 
 // milestone 2: Updated form validation for application submission steps
+
+// milestone 5: Reviewed message thread state handling and CTA layout
