@@ -31,3 +31,4 @@
 - 2024-03-05 14:43:10 ? Improved admin filtering for candidate and employer records
 - 2024-03-07 21:46:00 ? Added consistency tweaks to the theme provider and styling tokens
 - 2024-03-10 04:48:50 ? Reworked the card spacing and typography for cleaner reading
+- 2024-03-12 11:51:41 ? Improved post-job workflow for recruiters and employers
