@@ -33,3 +33,4 @@
 - 2024-03-10 04:48:50 ? Reworked the card spacing and typography for cleaner reading
 - 2024-03-12 11:51:41 ? Improved post-job workflow for recruiters and employers
 - 2024-03-14 18:54:31 ? Revised the landing page content structure and section hierarchy
+- 2024-03-17 01:54:14 ? Cleaned up duplicate companies and normalized imported data
