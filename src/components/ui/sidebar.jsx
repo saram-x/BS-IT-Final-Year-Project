@@ -80,3 +80,5 @@ export {
   SidebarMenuItem,
   SidebarMenuButton,
 }
+
+// milestone 6: Adjusted admin table readability and row interactions

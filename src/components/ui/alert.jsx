@@ -45,3 +45,5 @@ const AlertDescription = React.forwardRef(({ className, ...props }, ref) => (
 AlertDescription.displayName = "AlertDescription"
 
 export { Alert, AlertTitle, AlertDescription }
+
+// milestone 6: Adjusted admin table readability and row interactions

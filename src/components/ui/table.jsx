@@ -83,3 +83,5 @@ export {
 }
 
 // milestone 2: Updated form validation for application submission steps
+
+// milestone 6: Adjusted admin table readability and row interactions

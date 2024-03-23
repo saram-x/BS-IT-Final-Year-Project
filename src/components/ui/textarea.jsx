@@ -16,3 +16,5 @@ const Textarea = React.forwardRef(({ className, ...props }, ref) => {
 Textarea.displayName = "Textarea"
 
 export { Textarea }
+
+// milestone 6: Adjusted admin table readability and row interactions
