@@ -40,3 +40,4 @@
 - 2024-03-26 06:05:35 ? Polished notification and toast feedback for user actions
 - 2024-03-28 13:08:25 ? Updated status labels and empty states across the portal
 - 2024-03-30 20:11:15 ? Reviewed search index behavior for newly added job entries
+- 2024-04-02 03:14:05 ? Improved mobile interactions for the application drawer
