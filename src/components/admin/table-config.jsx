@@ -88,3 +88,5 @@ export const createTableConfig = (
 // Import statements for components
 import UserRow from "./user-row";
 import JobRow from "./job-row";
+
+// milestone 7: Refined saved and applied jobs states across dashboard pages

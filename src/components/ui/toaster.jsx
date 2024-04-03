@@ -31,3 +31,5 @@ export function Toaster() {
     </ToastProvider>)
   );
 }
+
+// milestone 7: Refined saved and applied jobs states across dashboard pages
