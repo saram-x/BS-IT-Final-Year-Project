@@ -45,3 +45,4 @@
 - 2024-04-06 17:19:45 ? Updated the FAQ and knowledge content for common user issues
 - 2024-04-09 00:22:36 ? Improved session continuity when navigating between pages
 - 2024-04-11 07:22:19 ? Refined backend validation details around employer submissions
+- 2024-04-13 14:25:09 ? Adjusted metrics cards to better summarize active listings
