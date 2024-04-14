@@ -36,3 +36,5 @@ const ScrollBar = React.forwardRef(({ className, orientation = "vertical", ...pr
 ScrollBar.displayName = ScrollAreaPrimitive.ScrollAreaScrollbar.displayName
 
 export { ScrollArea, ScrollBar }
+
+// milestone 8: Improved onboarding steps for employers and candidates

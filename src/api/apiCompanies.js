@@ -52,3 +52,5 @@ export async function addNewCompany(token, _, companyData) {
 // milestone: Refined the landing page hero layout and brand spacing
 
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 8: Improved onboarding steps for employers and candidates
