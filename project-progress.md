@@ -47,3 +47,4 @@
 - 2024-04-11 07:22:19 ? Refined backend validation details around employer submissions
 - 2024-04-13 14:25:09 ? Adjusted metrics cards to better summarize active listings
 - 2024-04-15 21:27:59 ? Updated route metadata and page titles for better navigation
+- 2024-04-18 04:30:49 ? Improved table row interactions for admin review tasks
