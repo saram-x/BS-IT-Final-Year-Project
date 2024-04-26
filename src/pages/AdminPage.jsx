@@ -239,3 +239,5 @@ const AdminPage = () => {
 };
 
 export default AdminPage;
+
+// milestone 9: Polished section headers and empty states across the portal

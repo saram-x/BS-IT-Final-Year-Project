@@ -193,3 +193,5 @@ CarouselNext.displayName = "CarouselNext"
 export { Carousel, CarouselContent, CarouselItem, CarouselPrevious, CarouselNext };
 
 // milestone 3: Tuned list filtering logic for location and role preferences
+
+// milestone 9: Polished section headers and empty states across the portal

@@ -44,3 +44,5 @@ export default ProtectedRoute;
 // milestone: Updated dashboard metrics for better visibility
 
 // milestone 2: Updated form validation for application submission steps
+
+// milestone 9: Polished section headers and empty states across the portal

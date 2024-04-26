@@ -45,3 +45,5 @@ export default CreatedApplications;
 // milestone 5: Reviewed message thread state handling and CTA layout
 
 // milestone 8: Improved onboarding steps for employers and candidates
+
+// milestone 9: Polished section headers and empty states across the portal

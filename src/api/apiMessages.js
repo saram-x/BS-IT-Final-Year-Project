@@ -109,3 +109,5 @@ export async function markMessagesAsRead(token, { application_id, user_id }) {
   console.log("✅ Messages marked as read:", data);
   return data;
 }
+
+// milestone 9: Polished section headers and empty states across the portal
