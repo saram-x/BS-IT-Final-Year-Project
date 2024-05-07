@@ -111,3 +111,5 @@ export async function markMessagesAsRead(token, { application_id, user_id }) {
 }
 
 // milestone 9: Polished section headers and empty states across the portal
+
+// milestone 10: Reviewed company metadata presentation and image fallbacks

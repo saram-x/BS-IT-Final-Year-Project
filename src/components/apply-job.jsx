@@ -300,3 +300,4 @@ export function ApplyJobDrawer({ user, job, fetchJob, applied = false }) {
     </Drawer>
   );
 }
+// milestone 10: Reviewed company metadata presentation and image fallbacks

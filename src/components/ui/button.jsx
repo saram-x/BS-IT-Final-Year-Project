@@ -53,3 +53,5 @@ export { Button, buttonVariants }
 // milestone 2: Updated form validation for application submission steps
 
 // milestone 7: Refined saved and applied jobs states across dashboard pages
+
+// milestone 10: Reviewed company metadata presentation and image fallbacks

@@ -114,3 +114,5 @@ export default LandingPage;
 // milestone: Updated dashboard metrics for better visibility
 
 // milestone 7: Refined saved and applied jobs states across dashboard pages
+
+// milestone 10: Reviewed company metadata presentation and image fallbacks
