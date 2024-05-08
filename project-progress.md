@@ -56,3 +56,4 @@
 - 2024-05-01 22:47:50 ? Reworked the job application modal for clearer submission steps
 - 2024-05-04 05:50:40 ? Improved accessibility labels for form controls and actions
 - 2024-05-06 12:50:24 ? Added safeguards to prevent invalid application data updates
+- 2024-05-08 19:53:14 ? Updated company logo handling for responsive layouts
