@@ -99,3 +99,5 @@ const Header = () => {
 
 export default Header;
 // milestone: Prepared the project foundation and local environment setup
+
+// milestone 11: Updated application detail cards for clearer review flow

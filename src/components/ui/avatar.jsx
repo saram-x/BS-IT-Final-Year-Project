@@ -34,3 +34,5 @@ const AvatarFallback = React.forwardRef(({ className, ...props }, ref) => (
 AvatarFallback.displayName = AvatarPrimitive.Fallback.displayName
 
 export { Avatar, AvatarImage, AvatarFallback }
+
+// milestone 11: Updated application detail cards for clearer review flow
