@@ -62,3 +62,4 @@
 - 2024-05-15 17:01:44 ? Improved caching patterns for frequently accessed company data
 - 2024-05-18 00:04:34 ? Refined admin row actions and confirmation prompts
 - 2024-05-20 07:07:25 ? Improved the post-job publishing checklist and validation hints
+- 2024-05-22 14:10:15 ? Updated load indicators to reduce perceived lag in filters
