@@ -64,3 +64,4 @@
 - 2024-05-20 07:07:25 ? Improved the post-job publishing checklist and validation hints
 - 2024-05-22 14:10:15 ? Updated load indicators to reduce perceived lag in filters
 - 2024-05-24 21:13:05 ? Reviewed and improved company importer normalization rules
+- 2024-05-27 04:15:55 ? Adjusted card column behavior for varying screen widths
