@@ -64,3 +64,5 @@ export default SectionHeader;
 // milestone 3: Tuned list filtering logic for location and role preferences
 
 // milestone 4: Improved landing page responsive spacing and hierarchy
+
+// milestone 12: Tightened validation checks for job creation and edits

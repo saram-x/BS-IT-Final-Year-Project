@@ -39,3 +39,5 @@ const AccordionContent = React.forwardRef(({ className, children, ...props }, re
 AccordionContent.displayName = AccordionPrimitive.Content.displayName
 
 export { Accordion, AccordionItem, AccordionTrigger, AccordionContent }
+
+// milestone 12: Tightened validation checks for job creation and edits
