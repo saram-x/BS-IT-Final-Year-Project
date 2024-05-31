@@ -66,3 +66,4 @@
 - 2024-05-24 21:13:05 ? Reviewed and improved company importer normalization rules
 - 2024-05-27 04:15:55 ? Adjusted card column behavior for varying screen widths
 - 2024-05-29 11:18:45 ? Improved consistency of page action buttons and spacing
+- 2024-05-31 18:18:28 ? Refined filtering logic to match job preferences more closely
