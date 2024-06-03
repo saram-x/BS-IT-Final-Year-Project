@@ -67,3 +67,4 @@
 - 2024-05-27 04:15:55 ? Adjusted card column behavior for varying screen widths
 - 2024-05-29 11:18:45 ? Improved consistency of page action buttons and spacing
 - 2024-05-31 18:18:28 ? Refined filtering logic to match job preferences more closely
+- 2024-06-03 01:21:19 ? Updated form styling to better align with the brand system
