@@ -68,3 +68,4 @@
 - 2024-05-29 11:18:45 ? Improved consistency of page action buttons and spacing
 - 2024-05-31 18:18:28 ? Refined filtering logic to match job preferences more closely
 - 2024-06-03 01:21:19 ? Updated form styling to better align with the brand system
+- 2024-06-05 08:24:09 ? Fixed recurring issue with company list refresh after updates
