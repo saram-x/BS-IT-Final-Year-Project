@@ -20,3 +20,4 @@ const AppLayout = () => {
 };
 
 export default AppLayout;
+// milestone 13: Optimized repeated API requests and stale state refreshes

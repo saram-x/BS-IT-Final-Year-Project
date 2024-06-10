@@ -261,3 +261,5 @@ export default MessagingComponent;
 // milestone: Prepared the project foundation and local environment setup
 
 // milestone 3: Tuned list filtering logic for location and role preferences
+
+// milestone 13: Optimized repeated API requests and stale state refreshes

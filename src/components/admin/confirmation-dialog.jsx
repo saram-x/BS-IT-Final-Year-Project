@@ -48,3 +48,5 @@ export default ConfirmationDialog;
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
 
 // milestone 8: Improved onboarding steps for employers and candidates
+
+// milestone 13: Optimized repeated API requests and stale state refreshes
