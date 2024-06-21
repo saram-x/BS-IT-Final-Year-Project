@@ -91,3 +91,5 @@ export default AdminSidebar;
 // milestone 1: Improved company card consistency and hover behavior
 
 // milestone 5: Reviewed message thread state handling and CTA layout
+
+// milestone 14: Reviewed dashboard cards for content balance and clarity

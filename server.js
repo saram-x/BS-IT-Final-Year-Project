@@ -507,3 +507,5 @@ app.get("/api/debug-database", async (req, res) => {
 app.listen(port, () => {
   console.log(`✅ Backend server running on http://localhost:${port}`);
 });
+
+// milestone 14: Reviewed dashboard cards for content balance and clarity
