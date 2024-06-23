@@ -76,3 +76,4 @@
 - 2024-06-16 19:38:20 ? Improved onboarding cues for role-specific account setup
 - 2024-06-19 02:41:10 ? Fixed stale state in the application drawer after repeated edits
 - 2024-06-21 09:44:00 ? Tightened validation logic around candidate profile completion
+- 2024-06-23 16:46:50 ? Cleaned up static assets and ensured consistent image loading
