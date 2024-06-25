@@ -77,3 +77,4 @@
 - 2024-06-19 02:41:10 ? Fixed stale state in the application drawer after repeated edits
 - 2024-06-21 09:44:00 ? Tightened validation logic around candidate profile completion
 - 2024-06-23 16:46:50 ? Cleaned up static assets and ensured consistent image loading
+- 2024-06-25 23:46:33 ? Enhanced available jobs grouping for location and domain filters
