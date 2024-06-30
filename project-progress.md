@@ -79,3 +79,4 @@
 - 2024-06-23 16:46:50 ? Cleaned up static assets and ensured consistent image loading
 - 2024-06-25 23:46:33 ? Enhanced available jobs grouping for location and domain filters
 - 2024-06-28 06:49:23 ? Updated job detail sections to highlight important requirements
+- 2024-06-30 13:52:14 ? Improved loading skeletons for tables and cards
