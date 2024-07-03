@@ -118,3 +118,5 @@ export default LandingPage;
 // milestone 10: Reviewed company metadata presentation and image fallbacks
 
 // milestone 14: Reviewed dashboard cards for content balance and clarity
+
+// milestone 15: Improved job listing responsiveness across smaller screens

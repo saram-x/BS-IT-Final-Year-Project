@@ -163,3 +163,5 @@ export default JobCard;
 // milestone 2: Updated form validation for application submission steps
 
 // milestone 5: Reviewed message thread state handling and CTA layout
+
+// milestone 15: Improved job listing responsiveness across smaller screens

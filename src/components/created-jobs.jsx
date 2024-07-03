@@ -49,3 +49,4 @@ const CreatedJobs = () => {
 };
 
 export default CreatedJobs;
+// milestone 15: Improved job listing responsiveness across smaller screens

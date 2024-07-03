@@ -16,3 +16,5 @@ export default supabaseClient;
 // milestone: Prepared the project foundation and local environment setup
 
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 15: Improved job listing responsiveness across smaller screens

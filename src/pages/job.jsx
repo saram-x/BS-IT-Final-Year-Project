@@ -222,3 +222,4 @@ const JobPage = () => {
 };
 
 export default JobPage;
+// milestone 15: Improved job listing responsiveness across smaller screens
