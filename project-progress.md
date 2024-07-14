@@ -85,3 +85,4 @@
 - 2024-07-07 11:00:44 ? Adjusted form button sizes and interactions for responsiveness
 - 2024-07-09 18:03:34 ? Reviewed the project README and local setup steps for accuracy
 - 2024-07-12 01:06:24 ? Updated company listing sorting to prioritize active employers
+- 2024-07-14 08:09:15 ? Improved job card excerpts and clearer metadata summaries
