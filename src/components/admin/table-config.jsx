@@ -90,3 +90,5 @@ import UserRow from "./user-row";
 import JobRow from "./job-row";
 
 // milestone 7: Refined saved and applied jobs states across dashboard pages
+
+// milestone 16: Refined app navigation and secondary action behaviors

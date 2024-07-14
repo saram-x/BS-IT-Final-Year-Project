@@ -54,3 +54,5 @@ export async function addNewCompany(token, _, companyData) {
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
 
 // milestone 8: Improved onboarding steps for employers and candidates
+
+// milestone 16: Refined app navigation and secondary action behaviors

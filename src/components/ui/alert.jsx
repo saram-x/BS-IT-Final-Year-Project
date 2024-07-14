@@ -47,3 +47,5 @@ AlertDescription.displayName = "AlertDescription"
 export { Alert, AlertTitle, AlertDescription }
 
 // milestone 6: Adjusted admin table readability and row interactions
+
+// milestone 16: Refined app navigation and secondary action behaviors

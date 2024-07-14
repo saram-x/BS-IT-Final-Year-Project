@@ -91,3 +91,5 @@ export default JobRow;
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
 
 // milestone 7: Refined saved and applied jobs states across dashboard pages
+
+// milestone 16: Refined app navigation and secondary action behaviors

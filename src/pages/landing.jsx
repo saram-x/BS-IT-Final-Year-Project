@@ -120,3 +120,5 @@ export default LandingPage;
 // milestone 14: Reviewed dashboard cards for content balance and clarity
 
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 16: Refined app navigation and secondary action behaviors
