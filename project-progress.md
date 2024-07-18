@@ -87,3 +87,4 @@
 - 2024-07-12 01:06:24 ? Updated company listing sorting to prioritize active employers
 - 2024-07-14 08:09:15 ? Improved job card excerpts and clearer metadata summaries
 - 2024-07-16 15:12:05 ? Reviewed duplicate admin rows and corrected internal naming
+- 2024-07-18 22:14:55 ? Refined state updates for job status transitions and notifications
