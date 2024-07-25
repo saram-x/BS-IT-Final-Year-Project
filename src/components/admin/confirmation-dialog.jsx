@@ -50,3 +50,5 @@ export default ConfirmationDialog;
 // milestone 8: Improved onboarding steps for employers and candidates
 
 // milestone 13: Optimized repeated API requests and stale state refreshes
+
+// milestone 17: Cleaned up duplicated logic in job and company views

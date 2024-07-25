@@ -49,3 +49,5 @@ export { Alert, AlertTitle, AlertDescription }
 // milestone 6: Adjusted admin table readability and row interactions
 
 // milestone 16: Refined app navigation and secondary action behaviors
+
+// milestone 17: Cleaned up duplicated logic in job and company views

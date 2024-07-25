@@ -301,3 +301,5 @@ export function ApplyJobDrawer({ user, job, fetchJob, applied = false }) {
   );
 }
 // milestone 10: Reviewed company metadata presentation and image fallbacks
+
+// milestone 17: Cleaned up duplicated logic in job and company views

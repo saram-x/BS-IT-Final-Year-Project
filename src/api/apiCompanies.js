@@ -56,3 +56,5 @@ export async function addNewCompany(token, _, companyData) {
 // milestone 8: Improved onboarding steps for employers and candidates
 
 // milestone 16: Refined app navigation and secondary action behaviors
+
+// milestone 17: Cleaned up duplicated logic in job and company views
