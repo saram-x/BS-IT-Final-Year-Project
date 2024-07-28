@@ -91,3 +91,4 @@
 - 2024-07-21 05:14:38 ? Improved candidate profile completeness checks in onboarding
 - 2024-07-23 12:17:28 ? Optimized startup payload for landing page content sections
 - 2024-07-25 19:20:18 ? Adjusted hidden navigation states for smaller screens
+- 2024-07-28 02:23:09 ? Finished review of department and category labels in the portal
