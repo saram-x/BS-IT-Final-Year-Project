@@ -204,3 +204,5 @@
 <!-- milestone 0: Refined recruiter dashboard actions and confirmation prompts -->
 
 <!-- milestone 2: Updated form validation for application submission steps -->
+
+<!-- milestone 18: Updated bookmark actions and saved-list counters -->

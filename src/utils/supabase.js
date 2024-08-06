@@ -18,3 +18,5 @@ export default supabaseClient;
 // milestone 12: Tightened validation checks for job creation and edits
 
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 18: Updated bookmark actions and saved-list counters

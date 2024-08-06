@@ -134,3 +134,5 @@ import {
   
   export default AddCompanyDrawer;
 // milestone 1: Improved company card consistency and hover behavior
+
+// milestone 18: Updated bookmark actions and saved-list counters

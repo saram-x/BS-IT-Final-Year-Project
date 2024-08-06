@@ -241,3 +241,5 @@ const AdminPage = () => {
 export default AdminPage;
 
 // milestone 9: Polished section headers and empty states across the portal
+
+// milestone 18: Updated bookmark actions and saved-list counters

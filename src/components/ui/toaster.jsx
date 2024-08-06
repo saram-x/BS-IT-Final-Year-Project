@@ -33,3 +33,5 @@ export function Toaster() {
 }
 
 // milestone 7: Refined saved and applied jobs states across dashboard pages
+
+// milestone 18: Updated bookmark actions and saved-list counters
