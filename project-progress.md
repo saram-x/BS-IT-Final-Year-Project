@@ -96,3 +96,4 @@
 - 2024-08-01 16:28:49 ? Added more resilient handling for empty search results
 - 2024-08-03 23:31:39 ? Reviewed action feedback for saved and applied jobs
 - 2024-08-06 06:34:29 ? Updated role-specific cards to reflect recruiter and applicant flows
+- 2024-08-08 13:37:19 ? Improved visual hierarchy in long admin tables and summaries
