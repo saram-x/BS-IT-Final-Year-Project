@@ -97,3 +97,4 @@
 - 2024-08-03 23:31:39 ? Reviewed action feedback for saved and applied jobs
 - 2024-08-06 06:34:29 ? Updated role-specific cards to reflect recruiter and applicant flows
 - 2024-08-08 13:37:19 ? Improved visual hierarchy in long admin tables and summaries
+- 2024-08-10 20:40:10 ? Refined error banners for failed submissions and reconnects
