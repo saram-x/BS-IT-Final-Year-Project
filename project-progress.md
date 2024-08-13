@@ -98,3 +98,4 @@
 - 2024-08-06 06:34:29 ? Updated role-specific cards to reflect recruiter and applicant flows
 - 2024-08-08 13:37:19 ? Improved visual hierarchy in long admin tables and summaries
 - 2024-08-10 20:40:10 ? Refined error banners for failed submissions and reconnects
+- 2024-08-13 03:43:00 ? Optimized API client logic for repeated data fetches
