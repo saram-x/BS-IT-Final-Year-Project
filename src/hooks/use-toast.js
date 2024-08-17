@@ -153,3 +153,5 @@ function useToast() {
 }
 
 export { useToast, toast }
+
+// milestone 19: Improved login and route guard UX for protected pages

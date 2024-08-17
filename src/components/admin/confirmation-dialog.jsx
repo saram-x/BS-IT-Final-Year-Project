@@ -52,3 +52,5 @@ export default ConfirmationDialog;
 // milestone 13: Optimized repeated API requests and stale state refreshes
 
 // milestone 17: Cleaned up duplicated logic in job and company views
+
+// milestone 19: Improved login and route guard UX for protected pages

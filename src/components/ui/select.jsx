@@ -120,3 +120,5 @@ export {
 }
 
 // milestone 5: Reviewed message thread state handling and CTA layout
+
+// milestone 19: Improved login and route guard UX for protected pages

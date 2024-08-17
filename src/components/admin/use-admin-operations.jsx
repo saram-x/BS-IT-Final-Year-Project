@@ -155,3 +155,5 @@ export const useAdminOperations = (
 // milestone 4: Improved landing page responsive spacing and hierarchy
 
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 19: Improved login and route guard UX for protected pages

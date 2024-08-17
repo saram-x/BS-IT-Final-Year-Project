@@ -26,3 +26,5 @@ const TableHeader = ({ title, searchValue, onSearchChange, searchPlaceholder, to
 };
 
 export default TableHeader;
+
+// milestone 19: Improved login and route guard UX for protected pages

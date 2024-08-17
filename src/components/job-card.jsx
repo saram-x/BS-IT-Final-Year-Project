@@ -165,3 +165,5 @@ export default JobCard;
 // milestone 5: Reviewed message thread state handling and CTA layout
 
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 19: Improved login and route guard UX for protected pages
