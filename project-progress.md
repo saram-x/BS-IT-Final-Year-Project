@@ -104,3 +104,4 @@
 - 2024-08-20 00:48:23 ? Updated date filters on the all-jobs page to match requirements
 - 2024-08-22 07:51:13 ? Improved notification timing after application and job updates
 - 2024-08-24 14:54:04 ? Cleaned up old UI patterns and standardized card styles
+- 2024-08-26 21:56:54 ? Adjusted company onboarding steps for consistent field completion
