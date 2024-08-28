@@ -58,3 +58,5 @@ export async function addNewCompany(token, _, companyData) {
 // milestone 16: Refined app navigation and secondary action behaviors
 
 // milestone 17: Cleaned up duplicated logic in job and company views
+
+// milestone 20: Polished admin sidebar navigation and toggles

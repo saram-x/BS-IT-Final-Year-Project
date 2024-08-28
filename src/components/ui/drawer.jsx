@@ -90,3 +90,5 @@ export {
 }
 
 // milestone 11: Updated application detail cards for clearer review flow
+
+// milestone 20: Polished admin sidebar navigation and toggles

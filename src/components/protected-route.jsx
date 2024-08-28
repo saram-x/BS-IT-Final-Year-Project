@@ -46,3 +46,5 @@ export default ProtectedRoute;
 // milestone 2: Updated form validation for application submission steps
 
 // milestone 9: Polished section headers and empty states across the portal
+
+// milestone 20: Polished admin sidebar navigation and toggles
