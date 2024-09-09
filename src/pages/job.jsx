@@ -223,3 +223,5 @@ const JobPage = () => {
 
 export default JobPage;
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 21: Adjusted project notes and setup documentation

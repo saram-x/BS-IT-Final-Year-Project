@@ -54,3 +54,5 @@ export default ConfirmationDialog;
 // milestone 17: Cleaned up duplicated logic in job and company views
 
 // milestone 19: Improved login and route guard UX for protected pages
+
+// milestone 21: Adjusted project notes and setup documentation

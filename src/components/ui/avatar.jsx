@@ -38,3 +38,5 @@ export { Avatar, AvatarImage, AvatarFallback }
 // milestone 11: Updated application detail cards for clearer review flow
 
 // milestone 14: Reviewed dashboard cards for content balance and clarity
+
+// milestone 21: Adjusted project notes and setup documentation

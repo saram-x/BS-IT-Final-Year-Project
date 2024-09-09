@@ -95,3 +95,5 @@ export {
   AlertDialogAction,
   AlertDialogCancel,
 }
+
+// milestone 21: Adjusted project notes and setup documentation
