@@ -167,3 +167,5 @@ export default JobCard;
 // milestone 15: Improved job listing responsiveness across smaller screens
 
 // milestone 19: Improved login and route guard UX for protected pages
+
+// milestone 22: Reviewed role-based UI states for recruiter and applicant flows

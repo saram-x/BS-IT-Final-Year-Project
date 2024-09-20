@@ -40,3 +40,5 @@ export { Avatar, AvatarImage, AvatarFallback }
 // milestone 14: Reviewed dashboard cards for content balance and clarity
 
 // milestone 21: Adjusted project notes and setup documentation
+
+// milestone 22: Reviewed role-based UI states for recruiter and applicant flows

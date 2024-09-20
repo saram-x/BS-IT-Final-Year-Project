@@ -92,3 +92,5 @@ import JobRow from "./job-row";
 // milestone 7: Refined saved and applied jobs states across dashboard pages
 
 // milestone 16: Refined app navigation and secondary action behaviors
+
+// milestone 22: Reviewed role-based UI states for recruiter and applicant flows

@@ -56,3 +56,5 @@ export default ConfirmationDialog;
 // milestone 19: Improved login and route guard UX for protected pages
 
 // milestone 21: Adjusted project notes and setup documentation
+
+// milestone 22: Reviewed role-based UI states for recruiter and applicant flows
