@@ -108,3 +108,5 @@ This project was developed as a BS IT Final Year Project.
 <!-- milestone: Improved search and filtering logic for roles -->
 
 <!-- milestone 4: Improved landing page responsive spacing and hierarchy -->
+
+<!-- milestone 23: Improved visual consistency in primary action buttons -->

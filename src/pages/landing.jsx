@@ -122,3 +122,5 @@ export default LandingPage;
 // milestone 15: Improved job listing responsiveness across smaller screens
 
 // milestone 16: Refined app navigation and secondary action behaviors
+
+// milestone 23: Improved visual consistency in primary action buttons

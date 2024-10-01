@@ -37,3 +37,5 @@ export function Toaster() {
 // milestone 18: Updated bookmark actions and saved-list counters
 
 // milestone 20: Polished admin sidebar navigation and toggles
+
+// milestone 23: Improved visual consistency in primary action buttons

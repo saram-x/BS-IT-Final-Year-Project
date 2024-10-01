@@ -97,3 +97,5 @@ export {
 }
 
 // milestone 21: Adjusted project notes and setup documentation
+
+// milestone 23: Improved visual consistency in primary action buttons

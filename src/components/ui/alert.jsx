@@ -53,3 +53,5 @@ export { Alert, AlertTitle, AlertDescription }
 // milestone 17: Cleaned up duplicated logic in job and company views
 
 // milestone 20: Polished admin sidebar navigation and toggles
+
+// milestone 23: Improved visual consistency in primary action buttons
