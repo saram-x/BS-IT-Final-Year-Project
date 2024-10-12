@@ -93,3 +93,5 @@ export default AdminSidebar;
 // milestone 5: Reviewed message thread state handling and CTA layout
 
 // milestone 14: Reviewed dashboard cards for content balance and clarity
+
+// milestone 24: Refined loading skeletons and transition feedback

@@ -20,3 +20,5 @@ export { Label }
 // milestone 14: Reviewed dashboard cards for content balance and clarity
 
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 24: Refined loading skeletons and transition feedback
