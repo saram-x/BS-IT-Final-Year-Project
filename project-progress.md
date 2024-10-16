@@ -126,3 +126,4 @@
 - 2024-10-09 11:44:33 ? Reviewed change set for recruiter actions and event feedback
 - 2024-10-11 18:47:23 ? Improved project consistency for company and admin sections
 - 2024-10-14 01:50:13 ? Finished accessibility pass on text contrast and focus states
+- 2024-10-16 08:53:03 ? Updated job descriptions to better highlight requirements and perks
