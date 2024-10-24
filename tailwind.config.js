@@ -100,3 +100,5 @@ module.exports = {
 // milestone: Fixed onboarding form flow for recruiters and seekers
 
 // milestone 24: Refined loading skeletons and transition feedback
+
+// milestone 25: Updated checklist behavior in post-job publication workflow

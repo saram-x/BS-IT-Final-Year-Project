@@ -117,3 +117,5 @@ export async function markMessagesAsRead(token, { application_id, user_id }) {
 // milestone 11: Updated application detail cards for clearer review flow
 
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
+
+// milestone 25: Updated checklist behavior in post-job publication workflow

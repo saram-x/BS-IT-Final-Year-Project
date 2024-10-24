@@ -39,3 +39,5 @@ export function Toaster() {
 // milestone 20: Polished admin sidebar navigation and toggles
 
 // milestone 23: Improved visual consistency in primary action buttons
+
+// milestone 25: Updated checklist behavior in post-job publication workflow

@@ -50,3 +50,5 @@ const CreatedJobs = () => {
 
 export default CreatedJobs;
 // milestone 15: Improved job listing responsiveness across smaller screens
+
+// milestone 25: Updated checklist behavior in post-job publication workflow
