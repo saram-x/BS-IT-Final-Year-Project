@@ -133,3 +133,4 @@
 - 2024-10-25 13:04:24 ? Reviewed post-job workflow for default values and edge cases
 - 2024-10-27 20:07:14 ? Improved saved job actions after listing updates and removals
 - 2024-10-30 03:06:57 ? Adjusted card labels for better clarity in recruiter views
+- 2024-11-01 10:09:48 ? Improved application card detail ordering for candidate review
