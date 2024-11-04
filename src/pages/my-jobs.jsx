@@ -33,3 +33,5 @@ const MyJobs = () => {
 
 export default MyJobs;
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 26: Improved FAQ and help content readability

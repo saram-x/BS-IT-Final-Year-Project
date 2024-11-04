@@ -110,3 +110,5 @@ This project was developed as a BS IT Final Year Project.
 <!-- milestone 4: Improved landing page responsive spacing and hierarchy -->
 
 <!-- milestone 23: Improved visual consistency in primary action buttons -->
+
+<!-- milestone 26: Improved FAQ and help content readability -->

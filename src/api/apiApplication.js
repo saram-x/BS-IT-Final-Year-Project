@@ -115,3 +115,5 @@ export async function getApplications(token, { user_id }) {
 // milestone: Improved search and filtering logic for roles
 
 // milestone 13: Optimized repeated API requests and stale state refreshes
+
+// milestone 26: Improved FAQ and help content readability

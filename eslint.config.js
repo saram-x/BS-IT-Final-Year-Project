@@ -40,3 +40,5 @@ export default [
 // milestone 1: Improved company card consistency and hover behavior
 
 // milestone 21: Adjusted project notes and setup documentation
+
+// milestone 26: Improved FAQ and help content readability

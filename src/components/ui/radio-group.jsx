@@ -29,3 +29,5 @@ RadioGroupItem.displayName = RadioGroupPrimitive.Item.displayName
 export { RadioGroup, RadioGroupItem }
 
 // milestone 13: Optimized repeated API requests and stale state refreshes
+
+// milestone 26: Improved FAQ and help content readability

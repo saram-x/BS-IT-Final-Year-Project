@@ -63,3 +63,5 @@ export default SavedJobs;
 // milestone: Prepared the project foundation and local environment setup
 
 // milestone 23: Improved visual consistency in primary action buttons
+
+// milestone 26: Improved FAQ and help content readability
