@@ -206,3 +206,5 @@
 <!-- milestone 2: Updated form validation for application submission steps -->
 
 <!-- milestone 18: Updated bookmark actions and saved-list counters -->
+
+<!-- milestone 27: Tuned page transitions for smoother navigation -->

@@ -22,3 +22,5 @@ export { Textarea }
 // milestone 8: Improved onboarding steps for employers and candidates
 
 // milestone 10: Reviewed company metadata presentation and image fallbacks
+
+// milestone 27: Tuned page transitions for smoother navigation

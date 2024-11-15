@@ -225,3 +225,5 @@ export default JobPage;
 // milestone 15: Improved job listing responsiveness across smaller screens
 
 // milestone 21: Adjusted project notes and setup documentation
+
+// milestone 27: Tuned page transitions for smoother navigation

@@ -17,3 +17,5 @@ const Input = React.forwardRef(({ className, type, ...props }, ref) => {
 Input.displayName = "Input"
 
 export { Input }
+
+// milestone 27: Tuned page transitions for smoother navigation

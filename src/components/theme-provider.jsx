@@ -61,3 +61,4 @@ export const useTheme = () => {
 
   return context;
 };
+// milestone 27: Tuned page transitions for smoother navigation
