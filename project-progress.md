@@ -141,3 +141,4 @@
 - 2024-11-12 21:23:58 ? Prepared the final feature pass for a cleaner end-user experience
 - 2024-11-15 04:26:49 ? Refined the job listing cards and hover states for applicants
 - 2024-11-17 11:29:39 ? Improved job filters to support skill and location selection
+- 2024-11-19 18:32:29 ? Polished the onboarding flow for new recruiters and candidates
