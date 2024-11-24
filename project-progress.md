@@ -143,3 +143,4 @@
 - 2024-11-17 11:29:39 ? Improved job filters to support skill and location selection
 - 2024-11-19 18:32:29 ? Polished the onboarding flow for new recruiters and candidates
 - 2024-11-22 01:35:19 ? Adjusted the dashboard layout for better mobile responsiveness
+- 2024-11-24 08:35:02 ? Added validation for application submissions and required fields
