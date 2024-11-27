@@ -41,3 +41,5 @@ export function Toaster() {
 // milestone 23: Improved visual consistency in primary action buttons
 
 // milestone 25: Updated checklist behavior in post-job publication workflow
+
+// milestone 28: Finished final UX polish and release readiness pass

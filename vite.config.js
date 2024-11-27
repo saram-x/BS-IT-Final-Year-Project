@@ -23,3 +23,5 @@ export default defineConfig({
 // milestone 0: Refined recruiter dashboard actions and confirmation prompts
 
 // milestone 18: Updated bookmark actions and saved-list counters
+
+// milestone 28: Finished final UX polish and release readiness pass

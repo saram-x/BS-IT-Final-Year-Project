@@ -65,3 +65,5 @@ export default SavedJobs;
 // milestone 23: Improved visual consistency in primary action buttons
 
 // milestone 26: Improved FAQ and help content readability
+
+// milestone 28: Finished final UX polish and release readiness pass

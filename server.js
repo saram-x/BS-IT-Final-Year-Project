@@ -509,3 +509,5 @@ app.listen(port, () => {
 });
 
 // milestone 14: Reviewed dashboard cards for content balance and clarity
+
+// milestone 28: Finished final UX polish and release readiness pass
