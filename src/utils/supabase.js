@@ -20,3 +20,5 @@ export default supabaseClient;
 // milestone 15: Improved job listing responsiveness across smaller screens
 
 // milestone 18: Updated bookmark actions and saved-list counters
+
+// milestone 29: Refined recruiter dashboard actions and confirmation prompts

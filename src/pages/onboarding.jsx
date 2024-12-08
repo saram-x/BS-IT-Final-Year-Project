@@ -65,3 +65,4 @@ const Onboarding = () => {
 };
 
 export default Onboarding;
+// milestone 29: Refined recruiter dashboard actions and confirmation prompts

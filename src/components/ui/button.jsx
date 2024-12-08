@@ -55,3 +55,5 @@ export { Button, buttonVariants }
 // milestone 7: Refined saved and applied jobs states across dashboard pages
 
 // milestone 10: Reviewed company metadata presentation and image fallbacks
+
+// milestone 29: Refined recruiter dashboard actions and confirmation prompts

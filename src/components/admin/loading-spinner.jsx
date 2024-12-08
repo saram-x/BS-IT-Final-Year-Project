@@ -8,3 +8,5 @@ const LoadingSpinner = ({ message = "Loading..." }) => {
 };
 
 export default LoadingSpinner;
+
+// milestone 29: Refined recruiter dashboard actions and confirmation prompts

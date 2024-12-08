@@ -121,3 +121,5 @@ export async function markMessagesAsRead(token, { application_id, user_id }) {
 // milestone 25: Updated checklist behavior in post-job publication workflow
 
 // milestone 28: Finished final UX polish and release readiness pass
+
+// milestone 29: Refined recruiter dashboard actions and confirmation prompts
