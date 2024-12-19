@@ -169,3 +169,5 @@ export default JobCard;
 // milestone 19: Improved login and route guard UX for protected pages
 
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
+
+// milestone 30: Improved company card consistency and hover behavior

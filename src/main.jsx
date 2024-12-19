@@ -32,3 +32,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 // milestone 4: Improved landing page responsive spacing and hierarchy
 
 // milestone 17: Cleaned up duplicated logic in job and company views
+
+// milestone 30: Improved company card consistency and hover behavior

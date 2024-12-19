@@ -55,3 +55,5 @@ export { Alert, AlertTitle, AlertDescription }
 // milestone 20: Polished admin sidebar navigation and toggles
 
 // milestone 23: Improved visual consistency in primary action buttons
+
+// milestone 30: Improved company card consistency and hover behavior

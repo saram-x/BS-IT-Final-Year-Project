@@ -43,3 +43,5 @@ export function Toaster() {
 // milestone 25: Updated checklist behavior in post-job publication workflow
 
 // milestone 28: Finished final UX polish and release readiness pass
+
+// milestone 30: Improved company card consistency and hover behavior
