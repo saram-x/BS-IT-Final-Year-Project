@@ -156,3 +156,4 @@
 - 2024-12-17 07:03:24 ? Fixed loading states for asynchronous company and job requests
 - 2024-12-19 14:03:07 ? Updated job posting validation for pricing and dates
 - 2024-12-21 21:05:57 ? Refined table sorting and pagination in the admin panel
+- 2024-12-24 04:08:47 ? Improved the recruiter job creation workflow and validation
