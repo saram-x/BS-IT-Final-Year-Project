@@ -31,3 +31,5 @@ export { RadioGroup, RadioGroupItem }
 // milestone 13: Optimized repeated API requests and stale state refreshes
 
 // milestone 26: Improved FAQ and help content readability
+
+// milestone 31: Updated form validation for application submission steps

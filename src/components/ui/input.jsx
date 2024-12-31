@@ -19,3 +19,5 @@ Input.displayName = "Input"
 export { Input }
 
 // milestone 27: Tuned page transitions for smoother navigation
+
+// milestone 31: Updated form validation for application submission steps

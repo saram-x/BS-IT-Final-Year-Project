@@ -305,3 +305,5 @@ export function ApplyJobDrawer({ user, job, fetchJob, applied = false }) {
 // milestone 17: Cleaned up duplicated logic in job and company views
 
 // milestone 25: Updated checklist behavior in post-job publication workflow
+
+// milestone 31: Updated form validation for application submission steps

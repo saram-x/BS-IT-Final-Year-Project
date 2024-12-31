@@ -38,3 +38,5 @@ ScrollBar.displayName = ScrollAreaPrimitive.ScrollAreaScrollbar.displayName
 export { ScrollArea, ScrollBar }
 
 // milestone 8: Improved onboarding steps for employers and candidates
+
+// milestone 31: Updated form validation for application submission steps

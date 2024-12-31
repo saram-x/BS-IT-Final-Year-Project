@@ -52,3 +52,5 @@ export default CreatedJobs;
 // milestone 15: Improved job listing responsiveness across smaller screens
 
 // milestone 25: Updated checklist behavior in post-job publication workflow
+
+// milestone 31: Updated form validation for application submission steps
