@@ -163,3 +163,4 @@
 - 2025-01-02 08:20:08 ? Fixed UI alignment issues in the application review screens
 - 2025-01-04 15:22:58 ? Improved company profile cards and brand presentation
 - 2025-01-06 22:25:48 ? Updated the messaging panel layout for clearer conversations
+- 2025-01-09 05:28:39 ? Improved error handling for rejected job submissions
