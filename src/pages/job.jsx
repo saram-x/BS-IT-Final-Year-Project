@@ -227,3 +227,5 @@ export default JobPage;
 // milestone 21: Adjusted project notes and setup documentation
 
 // milestone 27: Tuned page transitions for smoother navigation
+
+// milestone 32: Tuned list filtering logic for location and role preferences

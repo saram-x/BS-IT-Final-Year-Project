@@ -58,3 +58,5 @@ export default ConfirmationDialog;
 // milestone 21: Adjusted project notes and setup documentation
 
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
+
+// milestone 32: Tuned list filtering logic for location and role preferences

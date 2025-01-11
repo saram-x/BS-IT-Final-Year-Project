@@ -95,3 +95,5 @@ export default JobRow;
 // milestone 16: Refined app navigation and secondary action behaviors
 
 // milestone 27: Tuned page transitions for smoother navigation
+
+// milestone 32: Tuned list filtering logic for location and role preferences

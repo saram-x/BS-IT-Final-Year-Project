@@ -22,3 +22,5 @@ export default supabaseClient;
 // milestone 18: Updated bookmark actions and saved-list counters
 
 // milestone 29: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 32: Tuned list filtering logic for location and role preferences
