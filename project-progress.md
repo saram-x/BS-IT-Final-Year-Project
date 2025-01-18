@@ -167,3 +167,4 @@
 - 2025-01-11 12:31:29 ? Tightened the onboarding questionnaire flow and state transitions
 - 2025-01-13 19:31:12 ? Updated the project documentation and setup notes
 - 2025-01-16 02:34:02 ? Refined job details presentation with clearer metadata blocks
+- 2025-01-18 09:36:52 ? Improved admin filtering for candidate and employer records
