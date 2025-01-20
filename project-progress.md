@@ -168,3 +168,4 @@
 - 2025-01-13 19:31:12 ? Updated the project documentation and setup notes
 - 2025-01-16 02:34:02 ? Refined job details presentation with clearer metadata blocks
 - 2025-01-18 09:36:52 ? Improved admin filtering for candidate and employer records
+- 2025-01-20 16:39:42 ? Added consistency tweaks to the theme provider and styling tokens
