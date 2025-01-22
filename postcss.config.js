@@ -12,3 +12,5 @@ export default {
 // milestone 8: Improved onboarding steps for employers and candidates
 
 // milestone 13: Optimized repeated API requests and stale state refreshes
+
+// milestone 33: Improved landing page responsive spacing and hierarchy

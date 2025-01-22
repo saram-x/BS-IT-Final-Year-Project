@@ -126,3 +126,5 @@ export {
 // milestone 21: Adjusted project notes and setup documentation
 
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
+
+// milestone 33: Improved landing page responsive spacing and hierarchy

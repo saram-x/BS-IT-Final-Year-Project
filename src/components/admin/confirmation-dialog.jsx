@@ -60,3 +60,5 @@ export default ConfirmationDialog;
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
 
 // milestone 32: Tuned list filtering logic for location and role preferences
+
+// milestone 33: Improved landing page responsive spacing and hierarchy
