@@ -172,3 +172,4 @@
 - 2025-01-22 23:42:33 ? Reworked the card spacing and typography for cleaner reading
 - 2025-01-25 06:45:23 ? Improved post-job workflow for recruiters and employers
 - 2025-01-27 13:48:13 ? Revised the landing page content structure and section hierarchy
+- 2025-01-29 20:51:03 ? Cleaned up duplicate companies and normalized imported data
