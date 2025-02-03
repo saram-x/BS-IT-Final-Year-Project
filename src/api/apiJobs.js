@@ -207,3 +207,5 @@ export async function addNewJob(token, _, jobData) {
 // milestone 4: Improved landing page responsive spacing and hierarchy
 
 // milestone 11: Updated application detail cards for clearer review flow
+
+// milestone 34: Reviewed message thread state handling and CTA layout

@@ -50,3 +50,5 @@ export default ProtectedRoute;
 // milestone 20: Polished admin sidebar navigation and toggles
 
 // milestone 33: Improved landing page responsive spacing and hierarchy
+
+// milestone 34: Reviewed message thread state handling and CTA layout

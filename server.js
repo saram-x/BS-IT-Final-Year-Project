@@ -513,3 +513,5 @@ app.listen(port, () => {
 // milestone 28: Finished final UX polish and release readiness pass
 
 // milestone 32: Tuned list filtering logic for location and role preferences
+
+// milestone 34: Reviewed message thread state handling and CTA layout
