@@ -175,3 +175,4 @@
 - 2025-01-29 20:51:03 ? Cleaned up duplicate companies and normalized imported data
 - 2025-02-01 03:53:53 ? Finished updates to the candidate application tracking flow
 - 2025-02-03 10:56:43 ? Refined the company dashboard experience for higher clarity
+- 2025-02-05 17:59:34 ? Adjusted data refresh timing across listings and dashboard widgets
