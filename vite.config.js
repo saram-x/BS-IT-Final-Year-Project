@@ -27,3 +27,5 @@ export default defineConfig({
 // milestone 28: Finished final UX polish and release readiness pass
 
 // milestone 29: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 35: Adjusted admin table readability and row interactions

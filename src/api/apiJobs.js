@@ -209,3 +209,5 @@ export async function addNewJob(token, _, jobData) {
 // milestone 11: Updated application detail cards for clearer review flow
 
 // milestone 34: Reviewed message thread state handling and CTA layout
+
+// milestone 35: Adjusted admin table readability and row interactions

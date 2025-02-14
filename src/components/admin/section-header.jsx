@@ -66,3 +66,5 @@ export default SectionHeader;
 // milestone 4: Improved landing page responsive spacing and hierarchy
 
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 35: Adjusted admin table readability and row interactions

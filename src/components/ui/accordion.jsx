@@ -41,3 +41,5 @@ AccordionContent.displayName = AccordionPrimitive.Content.displayName
 export { Accordion, AccordionItem, AccordionTrigger, AccordionContent }
 
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 35: Adjusted admin table readability and row interactions

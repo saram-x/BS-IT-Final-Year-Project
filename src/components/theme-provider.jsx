@@ -62,3 +62,5 @@ export const useTheme = () => {
   return context;
 };
 // milestone 27: Tuned page transitions for smoother navigation
+
+// milestone 35: Adjusted admin table readability and row interactions

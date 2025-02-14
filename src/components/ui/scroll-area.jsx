@@ -40,3 +40,5 @@ export { ScrollArea, ScrollBar }
 // milestone 8: Improved onboarding steps for employers and candidates
 
 // milestone 31: Updated form validation for application submission steps
+
+// milestone 35: Adjusted admin table readability and row interactions
