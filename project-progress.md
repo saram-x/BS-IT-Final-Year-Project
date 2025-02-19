@@ -181,3 +181,4 @@
 - 2025-02-12 15:04:57 ? Reviewed search index behavior for newly added job entries
 - 2025-02-14 22:07:47 ? Improved mobile interactions for the application drawer
 - 2025-02-17 05:10:37 ? Fixed cross-browser styling issues in form controls
+- 2025-02-19 12:13:28 ? Updated the FAQ and knowledge content for common user issues
