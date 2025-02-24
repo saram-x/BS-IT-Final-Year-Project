@@ -183,3 +183,4 @@
 - 2025-02-17 05:10:37 ? Fixed cross-browser styling issues in form controls
 - 2025-02-19 12:13:28 ? Updated the FAQ and knowledge content for common user issues
 - 2025-02-21 19:16:18 ? Improved session continuity when navigating between pages
+- 2025-02-24 02:19:08 ? Refined backend validation details around employer submissions
