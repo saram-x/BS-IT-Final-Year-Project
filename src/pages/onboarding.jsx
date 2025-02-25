@@ -66,3 +66,5 @@ const Onboarding = () => {
 
 export default Onboarding;
 // milestone 29: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages

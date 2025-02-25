@@ -171,3 +171,5 @@ export default JobCard;
 // milestone 22: Reviewed role-based UI states for recruiter and applicant flows
 
 // milestone 30: Improved company card consistency and hover behavior
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages

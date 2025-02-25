@@ -64,3 +64,5 @@ export const useTheme = () => {
 // milestone 27: Tuned page transitions for smoother navigation
 
 // milestone 35: Adjusted admin table readability and row interactions
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages

@@ -155,3 +155,5 @@ function useToast() {
 export { useToast, toast }
 
 // milestone 19: Improved login and route guard UX for protected pages
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages

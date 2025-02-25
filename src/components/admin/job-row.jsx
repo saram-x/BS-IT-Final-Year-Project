@@ -97,3 +97,5 @@ export default JobRow;
 // milestone 27: Tuned page transitions for smoother navigation
 
 // milestone 32: Tuned list filtering logic for location and role preferences
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages

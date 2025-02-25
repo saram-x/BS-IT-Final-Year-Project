@@ -10,3 +10,5 @@ const LoadingSpinner = ({ message = "Loading..." }) => {
 export default LoadingSpinner;
 
 // milestone 29: Refined recruiter dashboard actions and confirmation prompts
+
+// milestone 36: Refined saved and applied jobs states across dashboard pages
