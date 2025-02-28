@@ -185,3 +185,4 @@
 - 2025-02-21 19:16:18 ? Improved session continuity when navigating between pages
 - 2025-02-24 02:19:08 ? Refined backend validation details around employer submissions
 - 2025-02-26 09:21:58 ? Adjusted metrics cards to better summarize active listings
+- 2025-02-28 16:24:48 ? Updated route metadata and page titles for better navigation
