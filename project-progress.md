@@ -189,3 +189,4 @@
 - 2025-03-02 23:27:38 ? Improved table row interactions for admin review tasks
 - 2025-03-05 06:27:22 ? Polished card transitions and inertial motion smoothing
 - 2025-03-07 13:30:12 ? Fixed redundant API calls during dashboard refresh loops
+- 2025-03-09 20:33:02 ? Reviewed candidate and employer role permissions in admin views
