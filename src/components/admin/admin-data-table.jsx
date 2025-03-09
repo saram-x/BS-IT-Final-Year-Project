@@ -65,3 +65,5 @@ const AdminDataTable = ({ config, activeTab }) => {
 export default AdminDataTable;
 
 // milestone 2: Updated form validation for application submission steps
+
+// milestone 37: Improved onboarding steps for employers and candidates

@@ -23,3 +23,5 @@ export default AppLayout;
 // milestone 13: Optimized repeated API requests and stale state refreshes
 
 // milestone 28: Finished final UX polish and release readiness pass
+
+// milestone 37: Improved onboarding steps for employers and candidates

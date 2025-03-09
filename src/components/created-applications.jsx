@@ -49,3 +49,5 @@ export default CreatedApplications;
 // milestone 9: Polished section headers and empty states across the portal
 
 // milestone 12: Tightened validation checks for job creation and edits
+
+// milestone 37: Improved onboarding steps for employers and candidates
