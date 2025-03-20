@@ -52,3 +52,5 @@ export default ProtectedRoute;
 // milestone 33: Improved landing page responsive spacing and hierarchy
 
 // milestone 34: Reviewed message thread state handling and CTA layout
+
+// milestone 38: Polished section headers and empty states across the portal

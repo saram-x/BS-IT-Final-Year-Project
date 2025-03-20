@@ -25,3 +25,5 @@ export default AppLayout;
 // milestone 28: Finished final UX polish and release readiness pass
 
 // milestone 37: Improved onboarding steps for employers and candidates
+
+// milestone 38: Polished section headers and empty states across the portal

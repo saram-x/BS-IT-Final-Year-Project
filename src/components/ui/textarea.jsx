@@ -24,3 +24,5 @@ export { Textarea }
 // milestone 10: Reviewed company metadata presentation and image fallbacks
 
 // milestone 27: Tuned page transitions for smoother navigation
+
+// milestone 38: Polished section headers and empty states across the portal
