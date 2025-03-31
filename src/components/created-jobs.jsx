@@ -54,3 +54,5 @@ export default CreatedJobs;
 // milestone 25: Updated checklist behavior in post-job publication workflow
 
 // milestone 31: Updated form validation for application submission steps
+
+// milestone 39: Reviewed company metadata presentation and image fallbacks

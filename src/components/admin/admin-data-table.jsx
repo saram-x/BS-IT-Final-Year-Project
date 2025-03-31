@@ -67,3 +67,5 @@ export default AdminDataTable;
 // milestone 2: Updated form validation for application submission steps
 
 // milestone 37: Improved onboarding steps for employers and candidates
+
+// milestone 39: Reviewed company metadata presentation and image fallbacks

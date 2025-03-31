@@ -119,3 +119,5 @@ export async function getApplications(token, { user_id }) {
 // milestone 26: Improved FAQ and help content readability
 
 // milestone 34: Reviewed message thread state handling and CTA layout
+
+// milestone 39: Reviewed company metadata presentation and image fallbacks

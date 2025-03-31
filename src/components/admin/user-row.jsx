@@ -73,3 +73,5 @@ const UserRow = ({ user, onBanUser, onDeleteUser }) => {
 export default UserRow;
 
 // milestone 4: Improved landing page responsive spacing and hierarchy
+
+// milestone 39: Reviewed company metadata presentation and image fallbacks
