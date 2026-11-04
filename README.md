@@ -101,6 +101,17 @@ npm run backend
 
 ---
 
+## 📄 Project Proposal & Documentation
+
+This project includes the official academic documentation and proposal files used during the BS IT Final Year Project development:
+
+- [Proposal.pdf](./Proposal.pdf) — Project proposal outlining the problem statement, objectives, scope, requirements, methodology, and project plan.
+- [Job Portal Documentation.docx](./Job%20Portal%20Documentation.docx) — Full project documentation covering system architecture, features, implementation details, testing, and conclusion.
+
+These documents provide the formal project background and the complete technical documentation for the job portal application.
+
+---
+
 ## 📄 License
 This project was developed as a BS IT Final Year Project.
 
